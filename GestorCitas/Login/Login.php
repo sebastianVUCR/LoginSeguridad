@@ -18,7 +18,7 @@
 	</head>
 	<body>
 		<header>
-      <h1 id="titulo">Gestor de citas Softville</h1>	  
+      <h1 id="titulo">Seguridad Sistemas Computacionales</h1>	  
 		</header>
 		<main>
 			<form id="formulario-login" name="formulario-login" method="post" action="login-function.php">
