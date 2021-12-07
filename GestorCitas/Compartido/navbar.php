@@ -24,10 +24,10 @@
         <a id="link-inicio" class="a-citas nav-link" href="#">Softville</span></a>
       </li>
       <li class="nav-item">
-        <a class="a-citas nav-link" href="../Citas/consultar-citas.php">Citas</span></a>
+        <a class="a-citas nav-link" href="#">Citas</span></a>
       </li>
       <li class="nav-item">
-        <a class="a-citas nav-link" href="../Paciente/InterfazRegistrarPaciente.php">Pacientes</span></a>
+        <a class="a-citas nav-link" href="#">Pacientes</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Reportes</a>
