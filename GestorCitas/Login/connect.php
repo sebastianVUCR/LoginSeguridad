@@ -8,7 +8,7 @@ Class Connect {
   function connectar(){
     $dbhost = "localhost";
     $dbuser = "root";
-    $dbpass = '';
+    $dbpass = '12345678';
     $db = "gestorcitas";
     $conn =  mysqli_connect($dbhost, $dbuser, $dbpass,$db);
     if (!$conn) {

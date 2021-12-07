@@ -17,7 +17,7 @@
     }
 
     if($_SESSION["logeo"] == 1){
-      header('Location: ../Citas/consultar-citas.php');
+      header('Location: ../Citas/registroDatos.php');
     }
     else{
       header('Location: login.php');
