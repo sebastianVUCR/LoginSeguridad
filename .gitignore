@@ -22,8 +22,5 @@ composer.lock
 
 /app/tmp/*
 /app/Config/core.php
-/GestorCitas/Login/connect.php
 /app/Config/database.php
 /vendors/*
-GestorCitas/Login/connect.php
-
